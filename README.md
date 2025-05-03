@@ -1,5 +1,5 @@
-<h1 align="left">Hi, I'm Kyuewon Kim</h1>
-<h3 align="left">Graduate researcher in AR/VR display systems, striving to make immersive experiences safer and more human-centered.</h3>
+<h1 align="left">Hi, I'm KYUEWON KIM</h1>
+<h3 align="left"></h3>
 
 - 🌍 Based in Seoul, South Korea  
 - 🎓 M.S. Candidate in Information Display, Kyung Hee University  
