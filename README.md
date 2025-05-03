@@ -1,8 +1,8 @@
 <h1 align="center">Hi, I'm Kyuewon Kim</h1>
 
 **Affiliation**
-- 🎓 Master's Program, **Department of Information Display**, Kyung Hee University
-- 🧪 Member of **HXR Lab** (Human-Centered Extended Reality Laboratory)
+- 🎓 Master's Program, Department of Information Display, Kyung Hee University
+- 🧪 Member of HXR Lab (Human-Centered Extended Reality Laboratory)
   
 **Current Research**
 - 🔬 Conducting research on **motion sickness mitigation in VR environments**
