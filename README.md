@@ -19,7 +19,3 @@
   <img src="https://github-readme-stats.vercel.app/api?username=kyuewon&show_icons=true&theme=graywhite&hide_border=true&hide_title=true" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kyuewon&layout=compact&theme=graywhite&hide_border=true" />
 </p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kyuewon&theme=default&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" />
-</p>
