@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Kyuewon Kim</h1>
 <p align="center">
-  <em>Master’s Student in Information Display · XR Interaction Researcher</em><br>
+  <em>Master’s Student in Information Display</em><br>
   <strong>Kyung Hee University · HXR Lab</strong>
 </p>
   
